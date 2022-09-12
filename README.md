@@ -7,4 +7,4 @@ Use the package manager [pip](https://pypi.org/project/pip/) to install MyCarDri
 ![pip logo](https://pypi.org/static/images/logo-small.95de8436.svg)
 
 ## Developers
-** - John Cardeccia **
+- **John Cardeccia**
